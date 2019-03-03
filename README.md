@@ -1,4 +1,4 @@
-#MySampleApp\n 
+#MySampleApp 
 
 
 This is my sample app
